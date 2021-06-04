@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/src/main/java/IntegerToString.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Palindrome.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Solution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-configurator-api/src/main/java/com/veranahealth/rac/controller/DeploymentController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-configurator-api/src/main/java/com/veranahealth/rac/controller/EMRController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-configurator-api/src/main/java/com/veranahealth/rac/controller/LocationController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-configurator-api/src/main/java/com/veranahealth/rac/redshift/dto/DeploymentDataDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-configurator-api/src/main/java/com/veranahealth/rac/redshift/helper/DeploymentHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-configurator-api/src/main/java/com/veranahealth/rac/redshift/model/TemplateFieldView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-configurator-api/src/main/java/com/veranahealth/rac/redshift/model/TemplateMappingView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-configurator-api/src/main/java/com/veranahealth/rac/redshift/repository/TemplateMappingViewRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-configurator-api/src/main/java/com/veranahealth/rac/redshift/service/DeploymentService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-configurator-api/src/main/java/com/veranahealth/rac/redshift/service/EMRService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-configurator-api/src/main/java/com/veranahealth/rac/redshift/service/EMRServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
