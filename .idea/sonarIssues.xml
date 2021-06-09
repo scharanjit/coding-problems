@@ -3,6 +3,11 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$PROJECT_DIR$/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/IntegerToString.java">
           <value>
             <set />
@@ -14,6 +19,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/Solution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/birthdayCake/BirthdayCakeCelebration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/catMouseProblem/CatAndMouse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/loneyInteger/LonelyInteger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/tripletsComparison/CompareTriplets.java">
           <value>
             <set />
           </value>
