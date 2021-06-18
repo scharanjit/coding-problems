@@ -11,15 +11,15 @@ public class FindDigitsSolution {
 
   private static int findDigits(int n) {
 
-    int count =0 ;
+    int count = 0;
     int num = n;
-    while(n > 0) {
+    while (n > 0) {
 
-      int r = n%10;
-      if(r != 0 && num % r ==0){
-        count ++;
+      int r = n % 10;
+      if (r != 0 && num % r == 0) {
+        count++;
       }
-      n= n / 10;
+      n = n / 10;
 
     }
     return count;

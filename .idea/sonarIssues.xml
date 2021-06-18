@@ -23,6 +23,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/arrayManipulation/ArrayManipiulation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/arrayManipulation/ArrayManipulation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/birthdayCake/BirthdayCakeCelebration.java">
           <value>
             <set />
@@ -43,6 +53,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/equalizeArray/EqualizeArraySolution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/findDigits/FindDigitsSolution.java">
           <value>
             <set />
@@ -54,6 +69,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/loneyInteger/LonelyInteger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/prefixSum/PrefixSumArraySolution.java">
           <value>
             <set />
           </value>
@@ -78,7 +98,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/ESIT_DevOps/services/app_config/resources/apps/ra-configurator-api/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-config-web/src/constants/Api.Constants.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-configurator-api/src/main/java/com/veranahealth/rac/controller/CDMController.java">
           <value>
             <set />
           </value>
@@ -113,6 +143,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-configurator-api/src/main/java/com/veranahealth/rac/redshift/helper/CdmHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-configurator-api/src/main/java/com/veranahealth/rac/redshift/helper/DeploymentHelper.java">
           <value>
             <set />
@@ -139,6 +174,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-configurator-api/src/main/java/com/veranahealth/rac/redshift/repository/TemplateMappingViewRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-configurator-api/src/main/java/com/veranahealth/rac/redshift/service/CDMServiceImpl.java">
           <value>
             <set />
           </value>
