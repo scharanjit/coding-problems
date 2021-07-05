@@ -39,7 +39,8 @@ public class BiggerIsGreater {
 
       for (int startIndex = endIndex + 1; startIndex < n; startIndex++) {
 
-        if (charArray[startIndex] > firstSmallChar && charArray[startIndex] < charArray[nextSmallChar]) {
+        if (charArray[startIndex] > firstSmallChar
+            && charArray[startIndex] < charArray[nextSmallChar]) {
           nextSmallChar = startIndex;
         }
       }

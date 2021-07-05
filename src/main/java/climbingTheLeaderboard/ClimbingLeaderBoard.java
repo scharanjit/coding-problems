@@ -58,7 +58,7 @@ public class ClimbingLeaderBoard {
 
       if (teamScores[mid] == aliceScore) {
         return mid;
-      } else if (teamScores[mid] < aliceScore && aliceScore < teamScores[mid - 1] ) {
+      } else if (teamScores[mid] < aliceScore && aliceScore < teamScores[mid - 1]) {
         //alice lies to right side of mid
         return mid;
       } else if (teamScores[mid] > aliceScore && aliceScore >= teamScores[mid + 1]) {

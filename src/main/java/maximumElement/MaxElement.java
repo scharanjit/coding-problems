@@ -4,8 +4,7 @@ import java.util.Scanner;
 import java.util.Stack;
 
 /**
- * General complexity would be O(n*m)
- * to reduce it to O(n), let's use two stacks
+ * General complexity would be O(n*m) to reduce it to O(n), let's use two stacks
  */
 public class MaxElement {
 
@@ -18,17 +17,16 @@ public class MaxElement {
 
     maxStack.push(Integer.MIN_VALUE);
 
-    for(int i = 0; i<NumberOfQueries;i++ ) {
+    for (int i = 0; i < NumberOfQueries; i++) {
       int operation = sc.nextInt();
 
-
       switch (operation) {
-        case 1 :
+        case 1:
           int item = sc.nextInt();
           mainStack.push(item);
           int maxSoFar = maxStack.peek();
 
-          if(item > maxSoFar) {
+          if (item > maxSoFar) {
             maxStack.push(item);
           } else {
             maxStack.push(maxSoFar);
