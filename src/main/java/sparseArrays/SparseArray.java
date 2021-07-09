@@ -11,7 +11,6 @@ public class SparseArray {
 
     printArray(findTheOccurances(strings, queries));
 
-
     String[] strings1 = {"aa", "bb", "aa", "cc"};
     String[] queries1 = {"aa", "cc", "bb"};
 
@@ -21,7 +20,7 @@ public class SparseArray {
 
   private static void printArray(int[] theOccurances) {
     for (int j : theOccurances) {
-      System.out.print(j +" ");
+      System.out.print(j + " ");
     }
     System.out.println();
   }

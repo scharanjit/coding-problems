@@ -27,14 +27,14 @@ public class DynamicArray {
 
     DynamicArray da = new DynamicArray(N);
     for (int i = 0; i < Q; i++) {
-      int queryType =  sc.nextInt();
+      int queryType = sc.nextInt();
       int x = sc.nextInt();
       int y = sc.nextInt();
 
-      if(queryType == 1){
-        da.appendValue(x,y,N);
+      if (queryType == 1) {
+        da.appendValue(x, y, N);
       } else {
-        da.printValue(x,y,N);
+        da.printValue(x, y, N);
       }
 
 
@@ -47,7 +47,7 @@ public class DynamicArray {
     int colIndex = 0;
     int rowIndex = (x ^ lastAns) % N;
     List<Integer> seq = seqList.get(rowIndex);
-    colIndex =  y % seq.size();
+    colIndex = y % seq.size();
     lastAns = seq.get(colIndex);
     System.out.println(lastAns);
   }

@@ -83,6 +83,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/dyanmicProgramming/FibonacciSeries.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/equalStacks/EqualizeTheStackSolution.java">
           <value>
             <set />
@@ -169,6 +174,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/core-server-lib/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/core-server-lib/src/main/java/com/veranahealth/core/utils/VHConstants.java">
           <value>
             <set />
           </value>
@@ -289,6 +299,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/sqs-sns/src/main/java/SNSManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/sqs-sns/src/main/java/com/example/sqssns/CommandLineAppStartupRunner.java">
           <value>
             <set />
           </value>
