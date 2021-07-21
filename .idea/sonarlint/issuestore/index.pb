@@ -30,3 +30,15 @@ b
 2src/main/java/acmIcpcTeam/AcmIcpcTeamSolution.java,f/e/fe018806ccc6f4931cd588fe9d295e34149f2d09
 m
 =src/main/java/climbingTheLeaderboard/ClimbingLeaderBoard.java,4/0/400716649a6e3ee64fcbf251372128ab4ca70f96
+b
+2src/main/java/biggerIsGreater/BiggerIsGreater.java,d/d/dd68c63bb2f472c382a3da5ddb4631ded3b72954
+b
+2src/main/java/arraysLeftRotation/LeftRotation.java,e/a/eaeeb18a91248cc8680fc43db4ea9b1c422e55ef
+\
+,src/main/java/dyanmicArray/DynamicArray.java,c/6/c6fb004e8510301e5b74db67116d9e33ee82cd87
+d
+4src/main/java/minimumDistances/MinimumDistances.java,3/2/3264855ac34e95508dbeba59efac70031b3f72d0
+[
++src/main/java/sparseArrays/SparseArray.java,7/b/7b4f6e9d1a8689a441adb2063f8233e7de7a4d74
+[
++src/main/java/knapsackProblem/Solution.java,9/9/993304b9e6966e890541d419529d79673c754a9f

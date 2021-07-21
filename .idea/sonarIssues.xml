@@ -103,7 +103,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/houseRobber/Solution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/kangarooLineJumps/KangarooJump.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/knapsackProblem/Solution.java">
           <value>
             <set />
           </value>
@@ -134,6 +144,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/minimumDistances/MinimumDistances.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/newYearChaos/NewYearChaosSolution.java">
           <value>
             <set />
           </value>
@@ -173,6 +188,31 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/ESIT_DevOps/services/app_config/resources/default/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/ESIT_DevOps/services/app_config/resources/default/beta/application-jms.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/ESIT_DevOps/services/app_config/resources/default/beta2/application-jms.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/ESIT_DevOps/services/app_config/resources/default/local/application-jms.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/ESIT_DevOps/services/app_config/resources/default/stg/application-jms.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/core-server-lib/pom.xml">
           <value>
             <set />
@@ -189,6 +229,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-config-web/src/constants/Api.Constants.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-configurator-api/src/main/java/com/veranahealth/rac/RAConfiguratorApplication.java">
           <value>
             <set />
           </value>
@@ -218,12 +263,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-configurator-api/src/main/java/com/veranahealth/rac/redshift/dto/DeploymentDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-configurator-api/src/main/java/com/veranahealth/rac/redshift/dto/DeploymentDataDto.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-configurator-api/src/main/java/com/veranahealth/rac/redshift/dto/DeploymentInputDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-configurator-api/src/main/java/com/veranahealth/rac/redshift/exceptions/ApplicationErrors.java">
           <value>
             <set />
           </value>
@@ -254,6 +309,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-configurator-api/src/main/java/com/veranahealth/rac/redshift/model/TemplateMappingView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-configurator-api/src/main/java/com/veranahealth/rac/redshift/repository/DeploymentRepository.java">
           <value>
             <set />
           </value>
@@ -319,6 +379,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/sqs-sns/src/main/java/com/example/sqssns/SQSListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/sqs-sns/src/main/java/com/example/sqssns/SqsSnsApplication.java">
           <value>
             <set />
           </value>
