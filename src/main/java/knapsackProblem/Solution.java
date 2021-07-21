@@ -21,8 +21,8 @@ public class Solution {
 
     //build table in bottom up manner
 
-    for (int i = 0; i <=n; i++) {
-      for (int j = 0; j <=C; j++) {
+    for (int i = 0; i <= n; i++) {
+      for (int j = 0; j <= C; j++) {
         if (i == 0 || j == 0) {
           table[i][j] = 0;
         } else if (wt[i - 1] > j) {
