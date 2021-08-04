@@ -42,3 +42,15 @@ d
 +src/main/java/sparseArrays/SparseArray.java,7/b/7b4f6e9d1a8689a441adb2063f8233e7de7a4d74
 [
 +src/main/java/knapsackProblem/Solution.java,9/9/993304b9e6966e890541d419529d79673c754a9f
+d
+4src/main/java/newYearChaos/NewYearChaosSolution.java,7/8/78bca294488987def4d022eb06284bcc31cecf7e
+Z
+*src/main/java/pickingNumbers/Solution.java,9/6/96ba225af50b717474b9161a4f132b22fdb295c7
+^
+.src/main/java/separateTheNumbers/Solution.java,7/f/7f9661725e02e2c508065c5f86b24e18f2460abf
+h
+8src/main/java/iceCreamParlor/IceCreamParlorSolution.java,5/0/505f97c42c8618868f1a13fa0da8859be8d7ff9a
+b
+2src/main/java/longestCommonSubstring/Solution.java,b/3/b35d8e625c3f2b2d6dbb5fcf9f902c8bbad76570
+q
+Asrc/main/java/minDeletionsInsertionsTransformString/Solution.java,5/3/53da2bfed235a2dc902df1e158bd738f77c49ccd

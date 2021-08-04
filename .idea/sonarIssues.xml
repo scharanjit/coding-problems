@@ -63,6 +63,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/countTriplets/CountTripletsSolution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/countingValleys/CountingValleySolution.java">
           <value>
             <set />
@@ -149,6 +154,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/maximumElement/MaxElement.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/minDeletionsInsertionsTransformString/Solution.java">
           <value>
             <set />
           </value>
@@ -263,6 +273,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/core-server-lib/src/main/java/com/veranahealth/core/cache/CacheMQController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/core-server-lib/src/main/java/com/veranahealth/core/utils/VHConstants.java">
           <value>
             <set />
@@ -274,6 +289,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/notification-api/src/main/java/com/veranahealth/notification/email/mq/SESBlackListEmailListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/notification-api/src/main/java/com/veranahealth/notification/email/mq/SESEmailQueueListener.java">
           <value>
             <set />
           </value>

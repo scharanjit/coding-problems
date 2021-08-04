@@ -1,6 +1,7 @@
 package longestCommonSubstring;
 
 public class Solution {
+  static int[][] cache;
 
   public static void main(String[] args) {
     char[] string1 = {'J', 'A', 'V', 'A', 'I', 'D'};
@@ -8,7 +9,7 @@ public class Solution {
     findTheLengthOfLongestSubsequence(string1, string2, 6, 4);
   }
 
-  private static void findTheLengthOfLongestSubsequence(char[] string1, char[] string2, int m,
+  public static int findTheLengthOfLongestSubsequence(char[] string1, char[] string2, int m,
       int n) {
 
     int[][] memo = new int[m + 1][n + 1];
@@ -26,7 +27,22 @@ public class Solution {
 
       }
     }
+
+    printCache(memo);
+
     System.out.println(result);
+   return  result;
+  }
+
+  private static void printCache(int[][] memo) {
+    for (int i =0 ; i<memo.length;i++){
+      for(int j=0;j<memo[i].length;j++){
+        System.out.print(memo[i][j]+" ");
+      }
+      System.out.println();
+    }
+
+    System.out.println("");
   }
 
 }
