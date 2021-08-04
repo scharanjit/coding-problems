@@ -1,6 +1,7 @@
 package longestCommonSubstring;
 
 public class Solution {
+
   static int[][] cache;
 
   public static void main(String[] args) {
@@ -14,8 +15,8 @@ public class Solution {
 
     int[][] memo = new int[m + 1][n + 1];
     int result = 0;
-    for (int i = 0; i <=m; i++) {
-      for (int j = 0; j <=n; j++) {
+    for (int i = 0; i <= m; i++) {
+      for (int j = 0; j <= n; j++) {
         if (i == 0 || j == 0) {
           memo[i][j] = 0;
         } else if (string1[i - 1] == string2[j - 1]) {
@@ -31,18 +32,18 @@ public class Solution {
     printCache(memo);
 
     System.out.println(result);
-   return  result;
+    return result;
   }
 
   private static void printCache(int[][] memo) {
-    for (int i =0 ; i<memo.length;i++){
-      for(int j=0;j<memo[i].length;j++){
-        System.out.print(memo[i][j]+" ");
+    for (int i = 0; i < memo.length; i++) {
+      for (int j = 0; j < memo[i].length; j++) {
+        System.out.print(memo[i][j] + " ");
       }
       System.out.println();
     }
 
-    System.out.println("");
+    System.out.println();
   }
 
 }
