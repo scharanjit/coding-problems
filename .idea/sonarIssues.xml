@@ -223,6 +223,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/twoPointerTechnique/Solution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/ESIT_DevOps/services/app_config/resources/apps/ra-configurator-api/application.properties">
           <value>
             <set />
@@ -249,6 +254,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/ESIT_DevOps/services/app_config/resources/apps/ra-configurator-api/local/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/ESIT_DevOps/services/app_config/resources/apps/ra-configurator-api/qa1/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/ESIT_DevOps/services/app_config/resources/apps/ra-configurator-api/qa2/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/ESIT_DevOps/services/app_config/resources/apps/ra-configurator-api/qa3/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/ESIT_DevOps/services/app_config/resources/apps/ra-configurator-api/stg/application.properties">
           <value>
             <set />
           </value>
