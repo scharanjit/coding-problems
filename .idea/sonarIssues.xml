@@ -198,6 +198,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/slidingWindow/Solution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/sparseArrays/SparseArray.java">
           <value>
             <set />
@@ -219,6 +224,31 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/ESIT_DevOps/services/app_config/resources/apps/ra-configurator-api/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/ESIT_DevOps/services/app_config/resources/apps/ra-configurator-api/atd/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/ESIT_DevOps/services/app_config/resources/apps/ra-configurator-api/beta/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/ESIT_DevOps/services/app_config/resources/apps/ra-configurator-api/beta2/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/ESIT_DevOps/services/app_config/resources/apps/ra-configurator-api/dev/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/ESIT_DevOps/services/app_config/resources/apps/ra-configurator-api/local/application.properties">
           <value>
             <set />
           </value>
@@ -403,6 +433,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-configurator-api/src/main/java/com/veranahealth/rac/redshift/dto/PracticeInputDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-configurator-api/src/main/java/com/veranahealth/rac/redshift/dto/UploadTypeDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-configurator-api/src/main/java/com/veranahealth/rac/redshift/enums/DeploymentDefaults.java">
           <value>
             <set />
@@ -424,6 +464,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-configurator-api/src/main/java/com/veranahealth/rac/redshift/helper/DeploymentsBulkUpdateHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-configurator-api/src/main/java/com/veranahealth/rac/redshift/helper/PracticeHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-configurator-api/src/main/java/com/veranahealth/rac/redshift/helper/UploadTypeHelper.java">
           <value>
             <set />
           </value>
@@ -479,6 +529,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-configurator-api/src/main/java/com/veranahealth/rac/redshift/service/EMRServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../verana/veranaGitHub/data-app-api/ra-configurator-api/src/main/java/com/veranahealth/rac/utils/AwsSecretManagerUtil.java">
           <value>
             <set />
           </value>
