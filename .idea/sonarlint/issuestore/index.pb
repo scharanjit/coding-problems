@@ -50,11 +50,15 @@ Z
 .src/main/java/separateTheNumbers/Solution.java,7/f/7f9661725e02e2c508065c5f86b24e18f2460abf
 h
 8src/main/java/iceCreamParlor/IceCreamParlorSolution.java,5/0/505f97c42c8618868f1a13fa0da8859be8d7ff9a
-b
-2src/main/java/longestCommonSubstring/Solution.java,b/3/b35d8e625c3f2b2d6dbb5fcf9f902c8bbad76570
 q
 Asrc/main/java/minDeletionsInsertionsTransformString/Solution.java,5/3/53da2bfed235a2dc902df1e158bd738f77c49ccd
 U
 %src/main/java/tripleSum/Solution.java,0/8/08f340d8599b5e33c53633cd73f7572ffff4684d
 f
 6src/main/java/countTriplets/CountTripletsSolution.java,7/d/7dce4c3d5886eb7a72624099ea309e585c372734
+Y
+)src/main/java/slidingWindow/Solution.java,3/c/3c0e4178526522b5caa7938f6ce1729bbd8f0916
+_
+/src/main/java/twoPointerTechnique/Solution.java,0/f/0f4833d26fd7039e1c16b69d9f4c2b66af5a390a
+[
++src/main/java/palindromeIndex/Solution.java,a/0/a0bc48a6665e65cd6e07156d5f2cf702720e228b
