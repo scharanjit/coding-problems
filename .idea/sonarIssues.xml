@@ -158,6 +158,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/maxConsecutiveOneS/Solution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/maximumElement/MaxElement.java">
           <value>
             <set />
@@ -234,6 +239,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/twoPointerTechnique/Solution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/utopianTree/Solution.java">
           <value>
             <set />
           </value>
