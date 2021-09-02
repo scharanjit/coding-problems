@@ -60,3 +60,5 @@ _
 +src/main/java/palindromeIndex/Solution.java,a/0/a0bc48a6665e65cd6e07156d5f2cf702720e228b
 b
 2src/main/java/acmIcpcTeam/AcmIcpcTeamSolution.java,f/e/fe018806ccc6f4931cd588fe9d295e34149f2d09
+f
+6src/main/java/arrayManipulation/ArrayManipulation.java,b/3/b3e84af0194bee454b0ddc784865245e35459f32
