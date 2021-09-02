@@ -14,8 +14,6 @@ g
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 `
 0src/main/java/timeConversion/TimeConversion.java,b/4/b4fc1fcf9109095a55dbe5a4fc0ff7e9f59477fe
-f
-6src/main/java/arrayManipulation/ArrayManipulation.java,b/3/b3e84af0194bee454b0ddc784865245e35459f32
 p
 @src/main/java/maxConsecutiveBinaryOne/ConsecutiveBinaryOnes.java,0/5/057be6b77cbce2994738a99474c42ac1b0780690
 f
@@ -26,8 +24,6 @@ g
 7src/main/java/equalStacks/EqualizeTheStackSolution.java,7/a/7ae7d81ef2ce7d7f0639926f1ff40c3daec9d0ee
 \
 ,src/main/java/maximumElement/MaxElement.java,d/0/d0b3b7d8089e517ba646967c7b6755acfb6f4237
-b
-2src/main/java/acmIcpcTeam/AcmIcpcTeamSolution.java,f/e/fe018806ccc6f4931cd588fe9d295e34149f2d09
 m
 =src/main/java/climbingTheLeaderboard/ClimbingLeaderBoard.java,4/0/400716649a6e3ee64fcbf251372128ab4ca70f96
 b
@@ -62,3 +58,5 @@ _
 /src/main/java/twoPointerTechnique/Solution.java,0/f/0f4833d26fd7039e1c16b69d9f4c2b66af5a390a
 [
 +src/main/java/palindromeIndex/Solution.java,a/0/a0bc48a6665e65cd6e07156d5f2cf702720e228b
+b
+2src/main/java/acmIcpcTeam/AcmIcpcTeamSolution.java,f/e/fe018806ccc6f4931cd588fe9d295e34149f2d09
